@@ -1,10 +1,10 @@
 * Spring 2022 - Lab 08
 
-* Last name:
+* Last name: Colotl 
 
-* First name:
+* First name: Alexander 
 
-* GitHub username:
+* GitHub username: Alexander-col 
 
 * Notes:
 
