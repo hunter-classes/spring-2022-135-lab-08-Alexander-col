@@ -6,7 +6,7 @@
 
 * GitHub username: Alexander-col 
 
-* Notes:
+* Notes: make clean also gets rid of the created files from the tasks!
 
 
   
