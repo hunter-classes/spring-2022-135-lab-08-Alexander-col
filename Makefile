@@ -10,4 +10,4 @@ imageio.o: imageio.cpp imageio.h
 
 
 clean:
-	rm -f sample.o imageio.o 
+	rm -f sample.o imageio.o taskA.pgm taskB.pgm taskC.pgm taskD.pgm taskF.pgm
